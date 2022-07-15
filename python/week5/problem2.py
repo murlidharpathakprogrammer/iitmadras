@@ -5,9 +5,6 @@ rectangle
 '''
 #Approach 1: Standard code:
 
-from turtle import pen
-
-
 PI = 22/7
 
 def circle_area(r):
