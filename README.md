@@ -1,2 +1,2 @@
 # iitmadras
-Study materials of B.Sc. in Programming and Data Science 
+Study materials of B.S in Programming and Data Science
